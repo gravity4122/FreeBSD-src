@@ -1,4 +1,4 @@
-include pfSense-DEBUG
+include DevRay-DEBUG
 include "../../conf/std.nodebug"
 
 ident   DevRay
